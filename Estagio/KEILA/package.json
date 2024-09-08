@@ -1,0 +1,13 @@
+{
+  "name": "seu-projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "recintos-zoo.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest recintos-zoo.test.js"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
